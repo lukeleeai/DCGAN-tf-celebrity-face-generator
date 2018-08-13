@@ -1,0 +1,6 @@
+__pycache__/
+cocob_optimizer.py
+data/
+train/
+*.tfrecords
+venv/
